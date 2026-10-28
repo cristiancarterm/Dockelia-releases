@@ -8,7 +8,7 @@
 
 ### Descargar
 
-**[Descargar Dockelia v1.0.0-beta.8 para macOS](https://github.com/cristiancarterm/ModelDock-releases/releases/download/v1.0.0-beta.8/Dockelia-v1.0.0-beta.8-macOS.zip)** · [Checksum SHA-256](https://github.com/cristiancarterm/ModelDock-releases/releases/download/v1.0.0-beta.8/Dockelia-v1.0.0-beta.8-macOS.zip.sha256) · [Notas de Beta 8](https://github.com/cristiancarterm/ModelDock-releases/releases/tag/v1.0.0-beta.8)
+**[Descargar Dockelia v1.0.0-beta.8 para macOS](https://github.com/cristiancarterm/Dockelia-releases/releases/download/v1.0.0-beta.8/Dockelia-v1.0.0-beta.8-macOS.zip)** · [Checksum SHA-256](https://github.com/cristiancarterm/Dockelia-releases/releases/download/v1.0.0-beta.8/Dockelia-v1.0.0-beta.8-macOS.zip.sha256) · [Notas de Beta 8](https://github.com/cristiancarterm/Dockelia-releases/releases/tag/v1.0.0-beta.8)
 
 Requisitos: **macOS 15 o posterior**. Paquete universal con ejecutables para **Apple Silicon e Intel**. Es una versión preliminar.
 
@@ -47,7 +47,7 @@ No se declara validación en un Mac limpio, ejecución en Intel, instalación co
 
 Este repositorio público contiene documentación y distribuye **binarios y checksums**. El código de la aplicación permanece en un repositorio privado. Los enlaces automáticos «Source code» de GitHub corresponden al contenido de este repositorio público, no al código privado de Dockelia.
 
-Descarga desde este repositorio oficial y comprueba el SHA-256. [Ver todas las versiones](https://github.com/cristiancarterm/ModelDock-releases/releases).
+Descarga desde este repositorio oficial y comprueba el SHA-256. [Ver todas las versiones](https://github.com/cristiancarterm/Dockelia-releases/releases).
 
 ## English
 
@@ -55,7 +55,7 @@ Descarga desde este repositorio oficial y comprueba el SHA-256. [Ver todas las v
 
 ### Download
 
-**[Download Dockelia v1.0.0-beta.8 for macOS](https://github.com/cristiancarterm/ModelDock-releases/releases/download/v1.0.0-beta.8/Dockelia-v1.0.0-beta.8-macOS.zip)** · [SHA-256 checksum](https://github.com/cristiancarterm/ModelDock-releases/releases/download/v1.0.0-beta.8/Dockelia-v1.0.0-beta.8-macOS.zip.sha256) · [Beta 8 release notes](https://github.com/cristiancarterm/ModelDock-releases/releases/tag/v1.0.0-beta.8)
+**[Download Dockelia v1.0.0-beta.8 for macOS](https://github.com/cristiancarterm/Dockelia-releases/releases/download/v1.0.0-beta.8/Dockelia-v1.0.0-beta.8-macOS.zip)** · [SHA-256 checksum](https://github.com/cristiancarterm/Dockelia-releases/releases/download/v1.0.0-beta.8/Dockelia-v1.0.0-beta.8-macOS.zip.sha256) · [Beta 8 release notes](https://github.com/cristiancarterm/Dockelia-releases/releases/tag/v1.0.0-beta.8)
 
 Requires **macOS 15 or later**. Universal package containing **Apple Silicon and Intel** executables. This is a prerelease.
 
@@ -94,4 +94,4 @@ Clean-Mac validation, Intel execution, complete OpenCode Desktop installation an
 
 This public repository contains documentation and distributes **binaries and checksums**. Application source code remains in a private repository. GitHub's automatic “Source code” links contain this public repository's contents, not Dockelia's private application source.
 
-Download from this official repository and verify SHA-256. [View all releases](https://github.com/cristiancarterm/ModelDock-releases/releases).
+Download from this official repository and verify SHA-256. [View all releases](https://github.com/cristiancarterm/Dockelia-releases/releases).
